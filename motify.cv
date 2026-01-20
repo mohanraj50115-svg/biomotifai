@@ -1,0 +1,52 @@
+AA_Motif,DNA_Motif,Function,Category
+HExxH,CATGAA..CAT,Metalloprotease,Enzyme
+GxGxxG,GGAGGT,NAD/FAD Binding,Metabolism
+HGGXH,CATGGAGGC,Dehydrogenase,Metabolism
+DXH,GAT..CAT,Aspartic Protease,Enzyme
+GGXGG,GGAGGT,Dehydrogenase,Metabolism
+DFG,GATTTTGGT,Protein Kinase Loop,Signal
+HRD,CATCGTGAT,Kinase Catalytic,Signal
+GxGKT,GGAGGTAAGACT,P-loop NTP Binding,ATP Binding
+NKXD,AACAAAGAT,GTP Binding,Signal
+HTH,CATACGCAT,Helix Turn Helix,DNA Binding
+C2H2,TGT..CAT..CAT,Zinc Finger,DNA Binding
+RRM,AGGCGGATG,RNA Binding,RNA Processing
+KH,AAACAT,RNA Binding,RNA Processing
+TMHELIX,ATGTTGTTG,Transmembrane Domain,Membrane
+SIGNALP,ATGAAA,Signal Peptide,Secretion
+ABC,GGTGCTGCT,Transporter,Transport
+RdRp,GATGATGGT,RNA Polymerase,Virus
+HELICASE,GGTGATGGT,Genome Replication,Virus
+CAPSID,ATGCGTGCT,Capsid Protein,Virus
+FUSION,TTGTTGTTG,Envelope Fusion,Virus
+EFHAND,GATGATGAT,Calcium Binding,Signal
+ANK,GCTGCTGCT,Protein Scaffold,Regulation
+WD,TGGGAT,Protein Interaction,Regulation
+NxS,AAC..TCT,N-glycosylation Site,PTM
+YXXP,TAT..CCG,Phosphorylation Site,PTM
+RGD,AGGGGTGAT,Cell Adhesion Motif,Binding
+COILED,GCTGCTGCT,Coiled Coil,Architecture
+BETA,GGTGGT,Beta Sheet Motif,Architecture
+PLOOP,GXXXXGK[ST],NTP Binding,ATP Binding
+DEAD,DDXG,Helicase Motif,RNA Processing
+DEAH,DEAH,Helicase Motif,RNA Processing
+LLXXDE,LLXXDE,Sorting Signal,Trafficking
+YXXL,YXXL,Endocytosis Signal,Sorting
+RXLR,RXLR,Effector Motif,Virulence
+RXLRDEER,RXLRDEER,Avirulence Motif,Plant Pathogen
+EFG,EFG,Translation Elongation,Protein Synthesis
+GGHGG,GGHGG,Metal Binding,Enzyme
+HPN,HPN,Protease Active Site,Enzyme
+KDEL,KDEL,ER Retention Signal,Localization
+RRXFLK,RRXFLK,Nuclear Localization,Transport
+DXDXD,DXDXD,Polymerase Motif,Replication
+GGSGGS,GGSGGS,Flexible Linker,Structural
+GxGxG,GxGxG,Glycine Rich Loop,ATP Binding
+SXS,SXS,Serine Protease Site,Enzyme
+WXY,WXY,Aromatic Motif,Binding
+CXXC,CXXC,Zinc Binding,Metal Binding
+PXXP,PXXP,SH3 Binding Motif,Signaling
+HPNLG,HPNLG,Active Site Loop,Enzyme
+KMSKS,KMSKS,DNA Polymerase Motif,Replication
+GXHG,GXHG,ATP Binding Loop,Energy Metabolism
+EXXR,EXXR,Acidic Motif,Interaction
